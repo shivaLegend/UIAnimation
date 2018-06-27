@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.1 (swiftlang-902.0.48 clang-902.0.37.1)"
+options: "950a385d5ccc64caa4f82fee239eac7a"
+build_time: [1526008093, 807952000]
+inputs:
+  "/Users/nguyenductai/Desktop/testUIAnimation/testUIAnimation/ViewController.swift": [1526008093, 0]
+  "/Users/nguyenductai/Desktop/testUIAnimation/testUIAnimation/AppDelegate.swift": [1526007792, 0]

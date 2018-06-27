@@ -1,0 +1,11 @@
+version: "Apple Swift version 4.1 (swiftlang-902.0.48 clang-902.0.37.1)"
+options: "d061de53442d3a8a2da7f3c9c178a2e9"
+build_time: [1526464745, 933663000]
+inputs:
+  "/Users/nguyenductai/Desktop/testUIAnimation/testUIAnimation/Controllers/VC2ViewController.swift": [1526452869, 0]
+  "/Users/nguyenductai/Desktop/testUIAnimation/testUIAnimation/Controllers/TableViewController.swift": [1526457118, 0]
+  "/Users/nguyenductai/Desktop/testUIAnimation/testUIAnimation/Controllers/BounceViewController.swift": [1526464745, 0]
+  "/Users/nguyenductai/Desktop/testUIAnimation/testUIAnimation/Controllers/UIPickerViewController.swift": [1526464690, 0]
+  "/Users/nguyenductai/Desktop/testUIAnimation/testUIAnimation/Controllers/VC3ViewController.swift": [1526453671, 0]
+  "/Users/nguyenductai/Desktop/testUIAnimation/testUIAnimation/Controllers/ViewController.swift": [1526028727, 0]
+  "/Users/nguyenductai/Desktop/testUIAnimation/testUIAnimation/Controllers/AppDelegate.swift": [1526007792, 0]
